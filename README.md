@@ -1,2 +1,2 @@
-# Python-Projects
-Personal projects using Python
+# Tic-Tac-Toe
+Simple Tic-Tac-Toe game using Python
