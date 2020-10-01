@@ -184,5 +184,7 @@ while True:
   #Quit game?
   if replay() == False:
     break
+   else: 
+    player_replay
 
  
